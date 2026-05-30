@@ -30,25 +30,24 @@ Building fast, scalable, and user-focused web experiences.
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
 </p>
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SharathMengani&show_icons=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharathMengani&layout=compact" />
-</p>
 
 ---
 
 ## 🔥 Current Focus
 
-```txt
 ✓ Advanced React Patterns
 ✓ Frontend Architecture
 ✓ Scalable Design Systems
 ✓ Open Source Contributions
 ✓ AI-integrated Applications
+
+
+## 🔥 Current Goals
+
+- Advanced React Patterns
+- Production-Ready SaaS Apps
+- Open Source Contributions
+- Frontend Architecture
 
 ## 📫 Connect
 

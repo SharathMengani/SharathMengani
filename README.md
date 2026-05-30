@@ -17,7 +17,7 @@ Building fast, scalable, and user-focused web experiences.
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,npm,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,html,css,tailwind,bootstrap" />
 </p>
 
 ### State Management
@@ -27,7 +27,7 @@ Building fast, scalable, and user-focused web experiences.
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel,postman" />
 </p>
 
 

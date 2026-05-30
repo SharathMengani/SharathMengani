@@ -42,13 +42,6 @@ Building fast, scalable, and user-focused web experiences.
 ✓ AI-integrated Applications
 
 
-## 🔥 Current Goals
-
-- Advanced React Patterns
-- Production-Ready SaaS Apps
-- Open Source Contributions
-- Frontend Architecture
-
 ## 📫 Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?logo=vercel)](https://sharathchandra-portfolio-two.vercel.app/)

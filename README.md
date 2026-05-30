@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sharath Chandra Mengani
 
-<img src="./banner.png" alt="Banner" width="100%" />
+<img src="1779961465349.jpg" alt="Banner" width="100%" />
 
 ### Frontend Engineer • React • Next.js • Angular
 
